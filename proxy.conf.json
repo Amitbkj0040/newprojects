@@ -1,0 +1,20 @@
+{
+    "/oauth": {
+        "target": "https://qa-clinic.gomedii.com/",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/api": {
+        "target": "https://qa-clinic.gomedii.com/",
+        "secure": false,
+        "changeOrigin": true
+    },
+    "/gm": {
+        "target": "http://gm-api-qa-ind.azurewebsites.net",
+        "secure": false,
+        "changeOrigin": true,
+        "pathRewrite": {
+            "^/gm": ""
+        }
+    }
+}
