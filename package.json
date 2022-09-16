@@ -27,7 +27,7 @@
         "angular-jwt": "^0.1.9",
         "angular-oauth2-oidc": "^3.1.4",
         "angular5-toaster": "^1.0.2",
-        "bootstrap": "^3.3.7",
+        "bootstrap": "^3.4.1",
         "bootstrap3": "^3.3.5",
         "core-js": "^2.4.1",
         "datepicker": "0.0.0",
